@@ -9,7 +9,7 @@ This project is used to extract pages from multiple PDF files and combine them i
 To install the required packages, run the following command:
 
 ```sh
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
